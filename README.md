@@ -24,7 +24,7 @@ Documento de Requisitos: requisitos solicitados pelo cliente, Daivid Leal.
 
 # UML do Mobile
 <div align="center">
-<img src=https://uploaddeimagens.com.br/images/004/422/987/original/Kotlin2.PNG?1681066648" width="500px/>
+<img src="https://uploaddeimagens.com.br/images/004/422/987/original/Kotlin2.PNG?1681066648" width="500px"/>
 </div>
 
 # UML do BackEnd
@@ -42,5 +42,7 @@ Documento de Requisitos: requisitos solicitados pelo cliente, Daivid Leal.
 # CONTRATO JSON
 
 <div>
-<img src=/>
+<img src="https://uploaddeimagens.com.br/images/004/423/002/full/contrato_json1.PNG?1681067196"  width="300px"/>
+  <img src="https://uploaddeimagens.com.br/images/004/423/008/full/contrato_json2.PNG?1681067373"  width="300px"/>
+  <img src="https://uploaddeimagens.com.br/images/004/423/011/full/contrato_json3.PNG?1681067449"  width="300px"/>
 </div>
