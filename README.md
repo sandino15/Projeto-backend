@@ -249,7 +249,7 @@ Fluxo secundário:
 </div>
 
 
-# CONTRATO JSON
+# JSON
 
 <div>
 <img src="https://uploaddeimagens.com.br/images/004/423/002/full/contrato_json1.PNG?1681067196"  width="300px"/>
