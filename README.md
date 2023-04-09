@@ -3,7 +3,7 @@ Projeto Back-End Kotlin - Faculdade UNINASSAU
 
 Grupo Gym Fit
 
-# Sandino Lourenço Matricula- 0544309
+# Sandino Lourenço Matricula- 01544309
 # Bruno Matricula-
 # Caio Matricula-
 # Eduardo Matricula-
@@ -15,12 +15,7 @@ Aplicção de App de Academia.
 Documento de Requisitos: requisitos solicitados pelo cliente, Daivid Leal.
 
 # Requisitos funcionais
-1. Registro de Usuário (Dados pessoais na aplicação).
-2. Registrar vendas do produto.
-3. Detalhamento do produto.
-4. Realizar login.
-5. Listagem dos produtos.
-6. Realizar cadastro.
+
 
 # UML do Mobile
 <div align="center">
