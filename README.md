@@ -17,7 +17,7 @@ Documento de Requisitos: requisitos solicitados pelo cliente, Daivid Leal.
 # Requisitos funcionais
 
 
-# Fignma
+# Figma
 
 # UML do Mobile
 <div align="center">
@@ -30,11 +30,6 @@ Documento de Requisitos: requisitos solicitados pelo cliente, Daivid Leal.
 <img src=/>
 </div>
 
-# TELA DE LOGIN
-
-<div>
-<img src= />
-</div>
 
 # CONTRATO JSON
 
