@@ -8,21 +8,13 @@
         "estado": "PE",
         "cep": "53401-440"
     },
-    "funcionarios": [
+    "cadastro": [
         {
-            "nome": "Sandino Lourenço da Silva",
-            "cargo": "Instrutor",
-            "salario": 2500.0
-        },
-        {
-            "nome": "Bruno",
-            "cargo": "Recepcionista",
-            "salario": 1500.0
-        },
-        {
-            "nome": "Eduardo",
-            "cargo": "Recepcionista",
-            "salario": 1500.0
+            "nome": "João da Silva",
+            "dataNascimento": "1990-05-15",
+            "sexo": "Masculino",
+            "email": "joao.silva@example.com",
+            "telefone": "(11) 98765-4321"
         }
     ],
     "alunos": [
@@ -85,7 +77,6 @@
                 }
             ]
         },
-        
         {
             "nome": "Caio",
             "idade": 20,
@@ -145,7 +136,5 @@
                 }
             ]
         }
-        
-        
     ]
 }
