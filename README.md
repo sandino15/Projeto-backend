@@ -26,7 +26,7 @@ cadastro da ficha de treinamento. O cadastro de usuário é extremamente importa
 todas as outras funções do software, pois o usuário é a principal entidade do projeto.
 
 
-<h4>Cadastro usuário:</h4>
+<h4>1. Cadastro usuário:</h4>
 
 <p>fluxo principal</p>
       
@@ -36,7 +36,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
     1. O usuário seleciona a opção de cadastro do aluno
     2. O sistema solicita as seguintes informações:nome
         genero do usuario, altura , peso, email, e uma 
-        senha para cadastro 
+        senha para cadastro.
       
 
    ```
@@ -45,10 +45,13 @@ todas as outras funções do software, pois o usuário é a principal entidade d
   
   ```
   
-    1. O  usuário vai ter a opção de consultar a ficha de treinamento
-    2. O  usuário  vai ter como acompanhar suas estatísticas de treino 
-    3. O usuário vai poder acompanhar  sua evolução
-
+    1. Informação obrigatoria faltando ou dados preechido de forma
+       incorreta.
+    2. No passo o sistema detecta que as informações não foram fornecidas
+       de maneira correta e procede da seguinte maneira:o sistema avisa
+       que alguma informação obrigatoria esta faltando
+        
+  
   
       
       
