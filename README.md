@@ -64,7 +64,7 @@ e receberá como parâmetro email e senha.
 
 Post
 
-
+```
 { "Id:1
   "Email:brunosantos@gmail.com"
   "Password:"26342523"
@@ -76,6 +76,8 @@ Status cod :404
 
 
 {"toke:" usuario Não encontrato" }
+
+```
 
 
 Post/User
