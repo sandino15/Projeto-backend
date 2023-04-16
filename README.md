@@ -78,8 +78,9 @@ todas as outras funções do software, pois o usuário é a principal entidade d
  
       6. senha e nome do usuario invalido o sistema verifica que não
          tem nemhum registo do nome do usuario e da senha cadastrada 
-	    procede de seguinte maneira:
-	7. Informa que não consta nenhum nome ou senha informado.
+         procede de seguinte maneira:
+      7. Informa que não consta nenhum nome ou senha informado.
+      
       8. Informação fornecida de maneira incorreta o sistema 
          identifica que algumas informação foi preechida de maneira 
          incorreta e procede da seguinte maneira:informação  foi 
