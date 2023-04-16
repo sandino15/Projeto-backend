@@ -117,7 +117,7 @@ e recebera como parâmetro: genero ,  objetivo do usuario exemplo<br/>
 se e  ganho de massa ou emagrecer, peso do usuario ,<br/>
  e altura e 
  
- ```
+ 
 
  Get 
 
@@ -129,5 +129,6 @@ se e  ganho de massa ou emagrecer, peso do usuario ,<br/>
    "peso:"82 kg " 
    "
   }
+  
 
 ```
