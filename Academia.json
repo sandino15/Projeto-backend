@@ -1,13 +1,6 @@
 {
     "nome": "Academia Gym fit",
-    "endereco": {
-        "rua": "Av. Sen. Salgado Filho,Paulista,",
-        "numero": "123",
-        "bairro": "Centro",
-        "cidade": "Paulista",
-        "estado": "PE",
-        "cep": "53401-440"
-    },
+    
     "cadastro": [
         {
             "nome": "João da Silva",
