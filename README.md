@@ -172,7 +172,7 @@ Fluxo secundário:
           vídeos sobre o treino.
 	  
 	  
-<h4>4.Login do  usuario **</h4>
+<h4>**.Login do  usuario **</h4>
 
   <p>Fluxo principal:</p>
 
