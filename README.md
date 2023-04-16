@@ -88,8 +88,19 @@ todas as outras funções do software, pois o usuário é a principal entidade d
       
       
 ```	 
-	   
 
+ <h4>3.perfil do  usuário **</h4>
+
+ <p>Fluxo principal:</p>
+
+```
+ 
+      1 . O usuario vai ter opcão de consultar a ficha de treinamento
+      2.  usuário vai ter como acompanhar suas estaticas de treino
+      3.   usuário  vai poder acompanhar sua evolução
+
+	   
+```
       
     
 
