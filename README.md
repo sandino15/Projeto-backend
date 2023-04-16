@@ -89,7 +89,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
       
 ```	 
 
- <h4>3.perfil do  usuário **</h4>
+ <h4>3.perfil do  usuário </h4>
 
  <p>Fluxo principal:</p>
 
