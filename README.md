@@ -28,7 +28,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 
 <h4>Cadastro usuário:</h4>
 
-<p>fluxo principal<p>
+<p>fluxo principal</p>
       
    ```
       
@@ -37,8 +37,12 @@ todas as outras funções do software, pois o usuário é a principal entidade d
     2. O sistema solicita as seguintes informações:nome
         genero do usuario, altura , peso, email, e uma 
         senha para cadastro 
+      
 
-
+   ```
+      
+  <p>fluxo segundario</p>    
+      
       
   
 
