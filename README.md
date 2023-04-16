@@ -89,14 +89,15 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 
 
 # UML do Mobile
+
+![UML](https://user-images.githubusercontent.com/115112186/232347411-1af69264-70a6-478e-815e-6a8699e1ddaa.jpeg)
 <div align="center">
 <img src="" width="500px"/>
 </div>
 
 # UML do BackEnd
 
-![image] (https://user-images.githubusercontent.com/115112186/232347300-b3546d50-6502-42b4-88ba-37d19a0cabf8.jpg)
-
+![UML](https://user-images.githubusercontent.com/115112186/232347411-1af69264-70a6-478e-815e-6a8699e1ddaa.jpeg)
 <div align="center">
 <img src=/>
 </div>
