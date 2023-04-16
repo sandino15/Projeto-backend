@@ -95,6 +95,8 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 
 # UML do BackEnd
 
+![image] (https://user-images.githubusercontent.com/115112186/232347300-b3546d50-6502-42b4-88ba-37d19a0cabf8.jpg)
+
 <div align="center">
 <img src=/>
 </div>
