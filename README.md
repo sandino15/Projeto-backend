@@ -3,7 +3,7 @@ Projeto Back-End Kotlin - Faculdade UNINASSAU
 
 Grupo Gym Fit
 
-# Sandino Lourenço Matricula- 01544309
+# Sandino Lourenço -Matricula- 01544309
 # Bruno Matricula-
 # Caio Matricula-
 # Eduardo Matricula-          
