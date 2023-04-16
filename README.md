@@ -87,6 +87,8 @@ e recebera como parâmetro nome, email e senha.
 
 post
 
+```
+
 
 { "Id:1
   "name:"bruno santos "
@@ -105,6 +107,7 @@ Retorna:
 
 {"toke:"Erro no email e na senha "}
 
+```
 
 
 Get/ficha de treino
@@ -113,6 +116,8 @@ esse enpoint é responsável pela ficha de treino do usuario <br/>
 e recebera como parâmetro: genero ,  objetivo do usuario exemplo<br/>
 se e  ganho de massa ou emagrecer, peso do usuario ,<br/>
  e altura e 
+ 
+ ```
 
  Get 
 
@@ -125,3 +130,4 @@ se e  ganho de massa ou emagrecer, peso do usuario ,<br/>
    "
   }
 
+```
