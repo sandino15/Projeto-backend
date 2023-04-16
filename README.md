@@ -41,7 +41,15 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 
    ```
       
-  <p>fluxo segundario</p>    
+  <p>fluxo segundario</p>
+  
+  ```
+  
+    1. O  usuário vai ter a opção de consultar a ficha de treinamento
+    2. O  usuário  vai ter como acompanhar suas estatísticas de treino 
+    3. O usuário vai poder acompanhar  sua evolução
+
+  
       
       
   
