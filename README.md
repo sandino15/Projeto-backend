@@ -53,6 +53,45 @@ todas as outras funções do software, pois o usuário é a principal entidade d
         
   
   ```
+  
+  <h4>2. editar usuario </h4>
+
+
+
+
+<p>Fluxo principal:</p> 
+
+
+```
+
+      1. usuário seleciona a opção de editar a ficha de treinamento
+      2.  usuário seleciona a opção de editar os dias de treinamento
+      3. usuário seleciona a opção de editar a senha e o email
+      4. O sistema valida as informação fornecidas 
+      5. O sistema efetiva a modificação mo cadastro do usuario
+      
+```
+
+<p>Fluxo secundário:</p> 
+
+ ```
+ 
+      6. senha e nome do usuario invalido o sistema verifica que não
+         tem nemhum registo do nome do usuario e da senha cadastrada 
+	    procede de seguinte maneira:
+	7. Informa que não consta nenhum nome ou senha informado.
+      8. Informação fornecida de maneira incorreta o sistema 
+         identifica que algumas informação foi preechida de maneira 
+         incorreta e procede da seguinte maneira:informação  foi 
+         preenchida de maneira incorreta.
+      
+      
+```	 
+	   
+
+      
+    
+
       
       
   
@@ -89,15 +128,12 @@ todas as outras funções do software, pois o usuário é a principal entidade d
 
 
 # UML do Mobile
-
-![UML](https://user-images.githubusercontent.com/115112186/232347411-1af69264-70a6-478e-815e-6a8699e1ddaa.jpeg)
 <div align="center">
 <img src="" width="500px"/>
 </div>
 
 # UML do BackEnd
 
-![UML](https://user-images.githubusercontent.com/115112186/232347411-1af69264-70a6-478e-815e-6a8699e1ddaa.jpeg)
 <div align="center">
 <img src=/>
 </div>
