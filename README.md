@@ -33,7 +33,7 @@ Documento de Requisitos: requisitos solicitados pelo cliente, Daivid Leal.
  
  2 telas de informações
  
-  ![image](https://user-images.githubusercontent.com/105602423/232342529-32a78a78-000f-41db-8fae-0983dee3ff10.png)
+ ![image](https://user-images.githubusercontent.com/105602423/232342699-b58aafdb-c371-4056-85ae-1dde91ed5b52.png)
 
 
  3 tela principal / tela de treino 
