@@ -177,7 +177,7 @@ Fluxo secundário:
   
       1. Se o usuário não desejar mais aquele tipo de treino selecionado, 
         ele pode clicar na funcionalidade de voltar para a tela principal
-	treino.
+	
 	
    
    
