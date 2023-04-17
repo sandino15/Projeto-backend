@@ -179,18 +179,11 @@ Fluxo secundário:
         ele pode clicar na funcionalidade de voltar para a tela principal
 	treino.
 	
-    ```     
+   
+   
+ ```
       
-          
-
-  
-  
-  
-
-  
-
-
-
+         
 
 
 
