@@ -140,7 +140,7 @@ Fluxo secundário:
    <p>Fluxo secundário:</p> 
 
 
-   
+   ```
    
 	  
       2. senha e nome do usuario validoo sistema verifica e manda 
@@ -148,19 +148,14 @@ Fluxo secundário:
       3. senha e nome do usuario valido o sistema verifica que não
           tem nenhum registro do usuario e da senha cadastrada.
       
-     
-     
-     
-   
-   
-   
-   <h4>5. treino do usuario **</h4>
-   
-   
-  <p>Fluxo principal:</p> 
+  ```
   
+  <h4>5. treino do usuario **</h4>
+   
+   
+  <p>Fluxo principal:</p>
   
-      
+  ```
 
   
      
@@ -169,33 +164,28 @@ Fluxo secundário:
       1 . O usuário vai ter opcão de selecionar qual tipo de exercio
           exemplo: usuário escolher a parte do corpo como abdome e
       3.  permas e o sistema vai montar uma ficha de treino com detalhes
-          vídeos sobre o treino.
-	  
-	  
-<h4>**.Login do  usuario **</h4>
+          vídeos sobre o treino
 
-  <p>Fluxo principal:</p>
 
+  ```
+  
+  <p>Fluxo secundário:</p> 
+  
+   ```
   
   
-      1 . permite que usuario acesse a autenticação de sua crendenciais
-          do email do usuario e senha adquiridos atraves de um cadastro.
-	  
-	  
-  
-
-
-   <p>Fluxo secundário:</p> 
-
-
-   
-   
-	  
-      2. senha e nome do usuario validoo sistema verifica e manda 
-         informações para outra tela
-      3. senha e nome do usuario valido o sistema verifica que não
-          tem nenhum registro do usuario e da senha cadastrada.      
+      1. Se o usuário não desejar mais aquele tipo de treino selecionado, 
+        ele pode clicar na funcionalidade de voltar para a tela principal
+	treino.
+	
+    ```     
       
+          
+
+  
+  
+  
+
   
 
 
