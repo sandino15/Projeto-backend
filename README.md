@@ -1,11 +1,11 @@
 # Projeto-backend
 Projeto Back-End Kotlin - Faculdade UNINASSAU
 
-Grupo Gym Fit
+# Grupo Gym Fit
 
 # Sandino Lourenço -Matricula- 01544309
-# Bruno Matricula-
-# Caio Matricula-
+# Bruno Gomes Matricula- 01292933	
+# Caio Felipe Matricula- 
 # Eduardo Matricula- 01526636         
 # Thais Júlia Matricula- 01551266
 
