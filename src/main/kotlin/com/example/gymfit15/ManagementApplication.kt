@@ -1,11 +1,11 @@
-package com.example.demo
+package com.example.gymfit15
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class DemoApplication
+class ManagementApplication
 
 fun main(args: Array<String>) {
-	runApplication<DemoApplication>(*args)
+    runApplication<ManagementApplication>(*args)
 }
