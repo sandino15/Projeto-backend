@@ -3,6 +3,7 @@ Projeto Mobile Kotlin - Faculdade UNINASSAU
 
 Grupo Gym Fit
 
+
 # Sandino Lourenço Matricula- 01544309
 # Bruno Matricula-
 # Caio Matricula-
@@ -33,6 +34,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
    ```
       
       
+      
     1. O usuário seleciona a opção de cadastro do aluno
     2. O sistema solicita as seguintes informações:nome
         genero do usuario, altura , peso, email, e uma 
@@ -55,6 +57,7 @@ todas as outras funções do software, pois o usuário é a principal entidade d
   ```
   
     <h4 > 2. editar usuario </h4>
+
 
 
 
