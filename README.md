@@ -1,4 +1,4 @@
-# Projeto-Mobile
+# Projeto-backend
 Projeto Mobile Kotlin - Faculdade UNINASSAU
 
 Grupo Gym Fit
